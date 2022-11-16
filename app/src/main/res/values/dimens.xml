@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="margin_min">16dp</dimen>
+    <dimen name="main_textfield_width">240dp</dimen>
+</resources>
